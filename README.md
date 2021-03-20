@@ -37,4 +37,6 @@
 &nbsp; <a href="mailto:Kavitakerohit2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=Rohit-Kavitake.Rohit-Kavitake)
+
 ⭐️ From [Rohit Kavitake ](https://github.com/Rohit-Kavitake)
