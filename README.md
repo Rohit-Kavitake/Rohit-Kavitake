@@ -14,10 +14,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | C++ | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | node.js | ANTD
+- 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Figma | Qwicklabs 
+- 🖥 &nbsp; Figma | Qwicklabs | Firebase
 
 <br>
 
