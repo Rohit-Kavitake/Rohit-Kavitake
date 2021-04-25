@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Desktop Developer and Front-end web Developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Web-series and learning Latest Tech upgrades as hobbies/side hustles.
+- ✍️ &nbsp; Watching Web-series, Getting Shredded at Workout and learning Latest Tech upgrades as hobbies.
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
