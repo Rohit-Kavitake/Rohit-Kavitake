@@ -5,19 +5,19 @@
 
 - 🔭 &nbsp; I’m currently learning Web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Desktop Developer and Front-end web Developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
+- 💼 &nbsp; Aspiring Full stack Web Developer and Python Developer.
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence/ machine Learning .
 - ✍️ &nbsp; Watching Web-series, Getting Shredded at Workout and learning Latest Tech upgrades as hobbies.
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | C++ | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | node.js | ANTD
-- 🛢 &nbsp; MySQL | MongoDB
+- 💻 &nbsp; Python | C | C++ | Java | Javascript
+- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap | React.js | node.js | Express | ANTD
+- 🛢 &nbsp; MySQL | MongoDB | Firestore
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Figma | Qwicklabs | Firebase
+- 🖥 &nbsp; Figma | Qwicklabs | Firebase | RazorPay
 
 <br>
 
