@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
-- 💼 &nbsp; Aspiring Full stack Web Developer and Python Developer.
+- 💼 &nbsp; MERN stack Web Developer and Python Developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence/ machine Learning .
 - ✍️ &nbsp; Watching Web-series, Getting Shredded at Workout and learning Latest Tech upgrades as hobbies.
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
