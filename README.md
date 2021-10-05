@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | C++ | Java | Javascript
-- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap | React.js | node.js | Express | ANTD
+- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap | React.js | node.js | Express.js
 - 🛢 &nbsp; MySQL | MongoDB | Firestore
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Figma | Qwicklabs | Firebase | RazorPay
